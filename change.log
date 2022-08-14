@@ -1,0 +1,21 @@
+# v0.2 [20] Alpha Build Stable
+- Added many usefull props and adjusted them since 0.1
+- Reworked whole profiles and combined them from 7 to 1 Script file
+- Added Enable Disable GAPPS
+- Added GMS DOZE Ultimate (Save Much Battery as Possible)
+- Changed Governors for all Profiles.
+- Changed Min & Max Freq on GamingMain & Gamingv2 to MAX
+- Tuning Schedutil Gov.for Gaming Profile
+- Tuning Performance Gov. for Gamingv2 Profile
+- Changed Menu Command to 'su -c exymenu'
+- Fixed all Props from previous version.
+- Fixed minor bugs what caused random reboot.
+-------
+# v0.1 [10] Alpha Build Stable
+- Added 5 Profiles
+- Battery
+- Balanced
+- Performance
+- Gaming
+- Gamingv2 (Experimental)
+- Added some doze features for better Performance on All Profiles.

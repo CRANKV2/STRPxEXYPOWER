@@ -1,0 +1,10 @@
+id=STRPxEXYPOWER
+name=𝙎𝙏𝙍𝙋 ✗ 𝙀𝙓𝙔𝙋𝙊𝙒𝙀𝙍
+version=0.2 Alpha
+versionCode=20
+author=@CRANKV2
+description=▌Exynos Exclusive Module ▌Maximizing User Experience ▌Multiple Profiles & More ▌Changeable In Termux Menu ▌su -c exymenu ▌
+donate=https://www.paypal.com/donate/?hosted_button_id=ZYR8QRKTJ9NPU
+support=https://t.me/AndroidRootModulesCommunity
+minMagisk=20300
+updateJson=https://raw.githubusercontent.com/CRANKV2/STRPxEXYPOWER/main/module.json
